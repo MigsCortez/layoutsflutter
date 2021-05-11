@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Purpose
+
+This project is for figuring out how layout works in flutter.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
